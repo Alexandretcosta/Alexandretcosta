@@ -1,4 +1,4 @@
-Alexandre Teixeira Costa (Full Data Scientist)
+Alexandre Teixeira Costa (Data Scientist)
 ============
 
 ----
