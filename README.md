@@ -3,7 +3,7 @@ Alexandre Teixeira Costa (Data Scientist)
 
 ----
 
-> Graduated in Statistics at the University of Brasília – UnB, I am currently carrying out a Master's Degree in Statistics, also at UnB, with focus on degradation data.
+> Graduated in Statistics at the University of Brasília – UnB, I am graduating in Math, also at UnB.
 
 > I have experience in creating analytical solutions and models for banking institutions, especially with regards to credit product propensity, registration validation and cluster models.
 
