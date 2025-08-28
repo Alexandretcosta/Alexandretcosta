@@ -1,69 +1,85 @@
-# Alexandre Teixeira Costa (Data Scientist)
+# Alexandre Teixeira Costa  
+**Senior Data Scientist | Banking & Financial Services**
 
-----
+📧 [alexandretcosta.11@gmail.com](mailto:alexandretcosta.11@gmail.com) • 📱 +55 (61) 99999-3875  
+📍 Brasília, Brazil • [GitHub: Alexandretcosta](https://github.com/Alexandretcosta)  
 
-> Graduated in Statistics at the University of Brasília – UnB, currently pursuing a Bachelor's degree in Mathematics at UnB.
+---
 
-> Experienced in developing analytical solutions and models for banking institutions, specializing in credit product propensity, registration validation, and cluster models.
+## Professional Summary  
 
-> Proficient in R, Python, SQL, with expertise in operating DB2 and Hive databases.
-----
+Data Scientist with extensive experience in **banking and financial services**, specialized in developing and deploying **Machine Learning and Generative AI solutions**. Proven track record in creating predictive models for **credit, insurance, open finance, and customer segmentation**. Skilled in end-to-end delivery of analytical solutions with a strong foundation in **statistics, mathematics, and software engineering**.  
 
-## Education
+---
 
-**Bachelor in Mathematics (In Progress)**
-University of Brasília (Brasília)
-*Jan 2019 -- Present*
+## Education  
 
-**Bachelor in Statistics**
-University of Brasília (Brasília)
-*Jan 2014 -- Dec 2018*
+- **Master’s in Software Engineering** *(In Progress)*  
+  University of São Paulo – USP/Esalq  
+  *Jun 2025 – Dec 2026*
 
-## Experience
+- **Master’s in Economics** *(Starting Soon)*  
+  University of Brasília  
+  *Jan 2026 – Expected Start*  
 
-**Data Scientist, Bank of Brazil**
-*Dec 2018 -- Present*
+- **Bachelor’s in Mathematics** *(In Progress)*  
+  University of Brasília  
+  *Jan 2019 – Present*
 
-Responsible for creating analytical models for product campaigns. Projects include:
-- Technical leader of Intelligent Business Advisor for Companies (Award from the Financial Times)
-- Best Card Modality for the Customer using Multiclass Classification Algorithm
-- Credit Propensity Model using Gradient Boosting Classifier
-- Streamlining Documentation in the hiring process
-- Customer segmentation using FAMD and Kmeans
-- Registration validation using Machine Learning
-- Text segmentation for Executives using LDA
-- Address validation analytical model using comparison of string and Decision Tree
+- **Bachelor’s in Statistics**  
+  University of Brasília  
+  *Jan 2014 – Dec 2018*  
 
-**Project Manager, Estat Consultancy**
-*Jul 2016 -- Sep 2018*
+---
 
-Led teams in executing projects with a focus on statistical analysis. Supported the sales team and conducted member training.
+## Professional Experience  
 
-## Tech Skills
+### **Senior Data Scientist** – Bank of Brazil  
+*Dec 2018 – Present*  
+Technical Manager leading projects focused on **data products, AI solutions, and model deployment in production environments**, using Agile frameworks (Scrum & Kanban).  
 
-- **Programming Languages:** Python, R, SQL, LaTex, & Pyspark
-- **Databases:** Hive, PostGree, MySQL, & DB2
+**Key Achievements & Projects**  
+- Developed **portfolio allocation models** for Micro & Small Business clients.  
+- Built **Open Finance Consent Propensity Model** using AutoML (H2O) and feature stores.  
+- Delivered **credit and insurance product propensity models** using Gradient Boosting and ensemble methods.  
+- Designed **multiclass classification model** to recommend the best credit card modality per client.  
+- Implemented **registration and address validation models** leveraging ML and string matching techniques.  
+- Created **LDA-based text segmentation** for executive communication insights.  
+- Developed an **algorithm for proof of life detection** for INSS clients.  
+- **Award-winning project**: Led the Intelligent Business Advisor for Companies (recognized by the Financial Times).  
+- Applied **clustering (FAMD & K-means)** for customer segmentation and campaign targeting.  
 
-[GitHub Profile][ref]
+---
 
-## Extra Information
+### **Project Manager** – Estat Consultancy  
+*Jul 2016 – Sep 2018*  
+- Managed teams delivering projects focused on **statistical analysis and predictive modeling**.  
+- Supported the commercial team in designing data-driven proposals.  
+- Conducted training sessions for junior analysts and consultants.  
 
-- **Human Languages:**
-  - Portuguese (native speaker)
-  - English (intermediate)
+---
 
-- **Scientific Initiation Program:**
-  - Donsker's Theorem for Independent Percolation guided by Roberto Villa with Honorable mention
+## Technical Skills  
 
-- **Financial Market League:**
-  - Co-founder of the Financial Market League at the University of Brasília
+- **Programming & Analytics:** Python, R, SQL, PySpark, LaTeX  
+- **Databases:** Hive, PostgreSQL, MySQL, Oracle, DB2  
+- **ML & AI Tools:** scikit-learn, H2O AutoML, TensorFlow, PyTorch  
+- **Methodologies:** Agile (Scrum, Kanban), End-to-End ML Lifecycle  
 
-- **Academic Subjects Monitor:**
-  - Calculus I
-  - Calculus II
-  - Probability and Statistics
+---
 
-----
+## Additional Information  
 
-> [alexandretcosta.11@gmail.com](mailto:alexandretcosta.11@gmail.com) • +55 (61)99999-3875 • 28 years old\
-> Address: Brasília, Brazil • GitHub: [Alexandretcosta](https://github.com/Alexandretcosta)
+- **Languages:**  
+  - Portuguese (Native)  
+  - English (Intermediate)  
+
+- **Scientific Research:**  
+  - *Donsker’s Theorem for Independent Percolation* (Honorable Mention, supervised by Roberto Villa)  
+
+- **Leadership & Extracurriculars:**  
+  - Co-founder of the *Financial Market League*, University of Brasília  
+  - Academic Tutor for Calculus I, Calculus II, Probability, and Statistics  
+
+---
+
